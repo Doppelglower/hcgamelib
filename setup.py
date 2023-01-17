@@ -3,7 +3,7 @@ setup(
   name = 'hcgamelib',
   packages = ['hcgamelib'],
   version = '0.1',
-  license='WTFPL',
+  license='MIT',
   description = 'Games!',
   author = 'Doppelganger',
   author_email = 'admin@doppelganger.eu.org',
@@ -16,7 +16,7 @@ setup(
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: WTFPL',
+    'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
