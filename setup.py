@@ -8,7 +8,7 @@ setup(
   author = 'Doppelganger',
   author_email = 'admin@doppelganger.eu.org',
   url = 'https://github.com/Doppelganger-phi',
-  download_url = 'https://github.com/Doppelganger-phi/hcgamelib/archive/v_01.tar.gz',
+  download_url = 'https://github.com/Doppelganger-phi/hcgamelib/archive/refs/tags/v0.0.1.tar.gz',
   keywords = ['games','hc'],
   install_requires=[
       ],
