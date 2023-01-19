@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'hcgamelib',
   packages = ['hcgamelib'],
-  version = '0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'Games!',
   author = 'Doppelganger',
