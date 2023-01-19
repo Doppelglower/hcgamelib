@@ -1,1 +1,2 @@
-from hcgamelib.gamelib import *
+from .gamelib import *
+__version__ = '0.2'
