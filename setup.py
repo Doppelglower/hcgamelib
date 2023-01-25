@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'hcgamelib',
   packages = ['hcgamelib'],
-  version = '0.2',
+  version = '0.3.14',
   license='MIT',
   description = 'Games!',
   author = 'Doppelganger',
   author_email = 'admin@doppelganger.eu.org',
   url = 'https://github.com/Doppelganger-phi',
-  download_url = 'https://github.com/Doppelganger-phi/hcgamelib/archive/refs/tags/v0.2.tar.gz',
+  download_url = 'https://github.com/Doppelganger-phi/hcgamelib/archive/refs/tags/v0.3.14.tar.gz',
   keywords = ['games','hc'],
   install_requires=[
     'numpy',
